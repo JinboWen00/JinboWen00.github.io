@@ -16,7 +16,7 @@ My research is primarily centered around the application of **Generative AI in N
 News
 ======
 1. [Jun/2023] I won the award of Outstanding Graduate of Guangdong University of Technology.
-2. [Sep/2022] I obtained the qualification of postgraduate promotion and exemption, and successfully promoted to Nanjing University of Aeronautics and Astronautics!
+2. [Sep/2022] I obtained the qualification of postgraduate promotion and exemption, and was successfully promoted to Nanjing University of Aeronautics and Astronautics!
 
 Academic Services
 ======
