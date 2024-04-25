@@ -2,7 +2,7 @@
 title: "Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness"
 collection: publications
 permalink: /publication/TCCN-Blockchain-FL-Metaverse
-excerpt: 'Accepted by **IEEE Transactions on Cognitive Communications and Networking**.'
+excerpt: 'Accepted by IEEE Transactions on Cognitive Communications and Networking.'
 date: 2024-02
 venue: 'February 2024'
 paperurl: 'https://ieeexplore.ieee.org/document/10254627'
