@@ -1,10 +1,10 @@
 ---
 title: "Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness"
 collection: publications
-permalink: /publication/2024-02-paper-Blockchain-empowered-Federated-Learning-for-Healthcare-Metaverses-User-centric-Incentive-Mechanism-with-Optimal-Data-Freshness
+permalink: /publication/2023-09-10-Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness
 excerpt: 'Accepted by IEEE Transactions on Cognitive Communications and Networking.'
-date: 2024-02
-venue: 'February 2024'
+date: 2023-09-10
+venue: 'IEEE Transactions on Cognitive Communications and Networking'
 paperurl: 'https://ieeexplore.ieee.org/document/10254627'
 citation: 'Kang, Jiawen, Jinbo Wen, Dongdong Ye, Bingkun Lai, Tianhao Wu, Zehui Xiong, Jiangtian Nie, Dusit Niyato, Yang Zhang, and Shengli Xie. "Blockchain-empowered federated learning for healthcare Metaverses: User-centric incentive mechanism with optimal data freshness." IEEE Transactions on Cognitive Communications and Networking (2023).'
 ---
