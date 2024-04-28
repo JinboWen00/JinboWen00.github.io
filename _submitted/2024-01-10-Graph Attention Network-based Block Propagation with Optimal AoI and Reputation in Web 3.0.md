@@ -1,7 +1,7 @@
 ---
 title: "Graph Attention Network-based Block Propagation with Optimal AoI and Reputation in Web 3.0"
-collection: publications
-permalink: /publication/2024-01-10-Graph Attention Network-based Block Propagation with Optimal AoI and Reputation in Web 3.0
+collection: submitted
+permalink: /submitted/2024-01-10-Graph Attention Network-based Block Propagation with Optimal AoI and Reputation in Web 3.0
 excerpt: "In this paper, we design a Graph Attention Network (GAT)-based reliable block propagation optimization framework for blockchain-enabled Web 3.0."
 date: 2024-01-10
 venue: 'Submitted'
