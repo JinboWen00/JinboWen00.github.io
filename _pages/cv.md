@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * September 2023 - Present:
-  * Research Assistant in [Metax](https://www.metaxlab.top/)
+  * Research Assistant in [MetaX Lab](https://www.metaxlab.top/)
   * Supervisor: [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm)
 
   
