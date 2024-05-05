@@ -1,5 +1,5 @@
 ---
-title: "Task freshness-aware incentive mechanism for vehicle twin migration in vehicular metaverses"
+title: "Task Freshness-aware Incentive Mechanism for Vehicle Twin Migration in Vehicular Metaverses"
 collection: publications
 permalink: /publication/2023-06-01-Task freshness-aware incentive mechanism for vehicle twin migration in vehicular metaverses
 excerpt: "In this paper, we design an efficient incentive mechanism framework for VT migrations. We first propose a novel metric named Age of Migration Task (AoMT) to quantify the task freshness of the VT migration. AoMT measures the time elapsed from the first collected sensing data of the freshest avatar migration task to the last successfully processed data at the next RSU. To incentivize the contribution of bandwidth resources among the next RSUs, we propose an AoMT-based contract model, where the optimal contract is derived to maximize the expected utility of the RSU that provides metaverse services.."
