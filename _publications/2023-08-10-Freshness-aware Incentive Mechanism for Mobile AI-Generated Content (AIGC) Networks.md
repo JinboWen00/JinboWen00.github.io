@@ -1,7 +1,7 @@
 ---
 title: "Freshness-aware Incentive Mechanism for Mobile AI-Generated Content (AIGC) Networks"
 collection: publications
-permalink: /publication/2023-08-10-Freshness-aware incentive mechanism for mobile AI-Generated Content (AIGC) networks
+permalink: /publication/2023-08-10-Freshness-aware Incentive Mechanism for Mobile AI-Generated Content (AIGC) Networks
 excerpt: "In this paper, we first utilize Age of Information (AoI) as a well-accepted data-freshness metric to quantify data freshness for AIGC fine-tuning. Then, we propose an AoI-based contract theory model to incentivize the contribution of fresh data among UAVs. Moreover, we design the optimal contract that is feasible to maximize the expected utility of the base station that is responsible for dispatching UAVs to collaboratively perform AIGC tasks."
 date: 2023-08-10
 venue: 'ICCC-2023 IEEE/CIC International Conference on Communications in China'
