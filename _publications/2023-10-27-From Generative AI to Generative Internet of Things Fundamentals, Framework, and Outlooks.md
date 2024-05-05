@@ -1,7 +1,7 @@
 ---
 title: "From Generative AI to Generative Internet of Things: Fundamentals, Framework, and Outlooks"
 collection: publications
-permalink: /publication/From Generative AI to Generative Internet of Things: Fundamentals, Framework, and Outlooks
+permalink: /publication/From Generative AI to Generative Internet of Things Fundamentals, Framework, and Outlooks
 excerpt: "In this article, we present the concept of GIoT and conduct an exploration of its potential prospects."
 date: 2024-05-02
 venue: 'IEEE Internet of Things Magazine'
