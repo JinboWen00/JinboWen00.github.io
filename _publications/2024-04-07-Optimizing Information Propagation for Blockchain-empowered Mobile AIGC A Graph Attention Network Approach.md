@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Information Propagation for Blockchain-empowered Mobile AIGC: A Graph Attention Network Approach"
 collection: publications
-permalink: /publication/2024-04-07-Optimizing Information Propagation for Blockchain-empowered Mobile AIGC: A Graph Attention Network Approach
+permalink: /publication/2024-04-07-Optimizing Information Propagation for Blockchain-empowered Mobile AIGC A Graph Attention Network Approach
 excerpt: "In this paper, we design a Graph Attention Network (GAT)-based information propagation optimization framework for blockchain-empowered mobile AIGC."
 date: 2024-04-07
 venue: 'IWCMC 2024-The 20th International Wireless Communications & Mobile Computing Conference'
