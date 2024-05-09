@@ -16,16 +16,16 @@ My research is primarily centered around the application of **Generative AI in N
 News
 ======
 1. [Aug/2023] I won the **ECNCT Best Oral Presentation**!
-2. [Jun/2023] I won the **award of Outstanding Graduate of Guangdong University of Technology**.
-3. [Sep/2022] I obtained the qualification of postgraduate promotion and exemption, and was successfully promoted to Nanjing University of Aeronautics and Astronautics!
+2. [Jul/2023] I won the **Best Paper Award of IEEE ICDCS 2023 Workshop**!
+3. [Jun/2023] I won the **award of Outstanding Graduate of Guangdong University of Technology**.
+4. [Sep/2022] I obtained the qualification of postgraduate promotion and exemption, and was successfully promoted to Nanjing University of Aeronautics and Astronautics!
 
 Academic Services
 ======
-1. TPC member, VTC2024-Fall.
-2. TPC member, VTC2023-Fall.
+1. TPC member, VTC 2024, 2023.
+2. TPC member, iThings 2024, 2023.
 3. TPC member, IEEE SustainCom 2023.
-4. TPC member, iThings 2023.
-5. TPC member, IEEE GLOBECOM Workshops 2023.
+4. TPC member, IEEE GLOBECOM Workshops 2023.
 
 Review for Journals/Conferences
 ======
