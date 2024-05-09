@@ -37,5 +37,5 @@ Review for Journals/Conferences
 6.  IET communications
 7.  IEEE Vehicular Technology Conference (VTC)
 8.  IEEE International Conference on Internet of Things (iThings)
-9.  IEEE GLOBECOM Workshops
+9.  IEEE Global Communications Conference (GLOBECOM) Workshops
 10. IEEE International Conference on Sustainable Computing and Communications (IEEE SustainCom)
