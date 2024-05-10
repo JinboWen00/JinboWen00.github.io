@@ -15,7 +15,7 @@ My research is primarily centered around the application of **Generative AI in N
 
 News
 ======
-1. [Aug/2023] I won the **ECNCT Best Oral Presentation**!
+1. [Aug/2023] I won the **ECNCT Best Paper Award and Best Oral Presentation**!
 2. [Jul/2023] I won the **Best Paper Award of IEEE ICDCS 2023 Workshop**!
 3. [Jun/2023] I won the **award of Outstanding Graduate of Guangdong University of Technology**.
 4. [Sep/2022] I obtained the qualification of postgraduate promotion and exemption, and was successfully promoted to Nanjing University of Aeronautics and Astronautics!
