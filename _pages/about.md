@@ -32,12 +32,12 @@ Review for Journals/Conferences
 1.  IEEE Transactions on Vehicular Technology
 2.  EURASIP Journal on Wireless Communications and Networking
 3.  International Journal of Network Management
-4.  Transactions on emerging telecommunications technologies
+4.  Transactions on Emerging Telecommunications Technologies
 5.  IEEE Transactions on Machine Learning in Communications and Networking
-6.  IET communications
+6.  IET Communications
 7.  Expert Systems
 8.  IEEE Vehicular Technology Conference (VTC)
 9.  IEEE International Conference on Internet of Things (iThings)
-10.  IEEE Global Communications Conference (GLOBECOM) & Workshops
+10. IEEE Global Communications Conference (GLOBECOM) & Workshops
 11. IEEE International Conference on Sustainable Computing and Communications (IEEE SustainCom) 
     
