@@ -15,3 +15,7 @@ citation: 'Jiawen Kang, Jinbo Wen, Dongdong Ye, Bingkun Lai, Tianhao Wu, Zehui X
 <br/><img src='/images/papers/system.png' width = "700">
 
 Fig. 1: A cross-chain empowered FL framework for healthcare metaverses.
+
+<br/><img src='/images/papers/webase.pdf' width = "700">
+
+Fig. 10: Transaction information in three blockchains. Without loss of generality, we set two subchains that are used to store the local models on client A and client B separately and one main chain that is used to store data on the server.
