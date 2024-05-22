@@ -6,7 +6,7 @@ excerpt: "In this paper, we first design a user-centric privacy-preserving frame
 date: 2023-09-10
 venue: 'IEEE Transactions on Cognitive Communications and Networking'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10254627'
-thumbnail: /images/papers/adv.png
+thumbnail: /images/papers/system.png
 citation: 'Jiawen Kang, Jinbo Wen, Dongdong Ye, Bingkun Lai, Tianhao Wu, Zehui Xiong, Jiangtian Nie, Dusit Niyato, Yang Zhang, and Shengli Xie, "Blockchain-empowered federated learning for healthcare Metaverses: User-centric incentive mechanism with optimal data freshness," <i>IEEE Transactions on Cognitive Communications and Networking</i>, pp. 348-362, Feb 2024.'
 ---
 
