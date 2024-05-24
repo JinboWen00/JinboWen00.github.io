@@ -23,9 +23,10 @@ News
 Academic Services
 ======
 1. TPC member, VTC 2024, 2023.
-2. TPC member, iThings 2024, 2023.
-3. TPC member, IEEE SustainCom 2023.
-4. TPC member, IEEE GLOBECOM Workshops 2023.
+2. TPC member, GLOBECOM 2024.
+3. TPC member, iThings 2024, 2023.
+4. TPC member, IEEE SustainCom 2023.
+5. TPC member, IEEE GLOBECOM Workshops 2023.
 
 Review for Journals/Conferences
 ======
