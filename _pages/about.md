@@ -30,15 +30,16 @@ Academic Services
 
 Review for Journals/Conferences
 ======
-1.  IEEE Transactions on Vehicular Technology
-2.  EURASIP Journal on Wireless Communications and Networking
-3.  International Journal of Network Management
-4.  Transactions on Emerging Telecommunications Technologies
-5.  IEEE Transactions on Machine Learning in Communications and Networking
-6.  IET Communications
-7.  Expert Systems
-8.  IEEE Vehicular Technology Conference (VTC)
-9.  IEEE International Conference on Internet of Things (iThings)
-10. IEEE Global Communications Conference (GLOBECOM) & Workshops
-11. IEEE International Conference on Sustainable Computing and Communications (IEEE SustainCom) 
+1.  IEEE Internet of Things Journal 
+2.  IEEE Transactions on Vehicular Technology
+3.  EURASIP Journal on Wireless Communications and Networking
+4.  International Journal of Network Management
+5.  Transactions on Emerging Telecommunications Technologies
+6.  IEEE Transactions on Machine Learning in Communications and Networking
+7.  IET Communications
+8.  Expert Systems
+9.  IEEE Vehicular Technology Conference (VTC)
+10.  IEEE International Conference on Internet of Things (iThings)
+11. IEEE Global Communications Conference (GLOBECOM) & Workshops
+12. IEEE International Conference on Sustainable Computing and Communications (IEEE SustainCom) 
     
