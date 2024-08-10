@@ -45,4 +45,5 @@ Review for Journals/Conferences
 12. IEEE Global Communications Conference (GLOBECOM) & Workshops
 13. IEEE International Conference on Sustainable Computing and Communications (IEEE SustainCom)
 14. Software: Practice and Experience
+15. IEEE Data Descriptions
     
