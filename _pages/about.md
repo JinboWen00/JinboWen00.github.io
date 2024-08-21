@@ -34,16 +34,16 @@ Review for Journals/Conferences
 1.  IEEE Internet of Things Journal
 2.  IEEE Wireless Communications Magazine
 3.  IEEE Transactions on Vehicular Technology
-4.  EURASIP Journal on Wireless Communications and Networking
-5.  International Journal of Network Management
-6.  Transactions on Emerging Telecommunications Technologies
-7.  IEEE Transactions on Machine Learning in Communications and Networking
-8.  IET Communications
-9.  Expert Systems
-10.  IEEE Vehicular Technology Conference (VTC)
-11. IEEE International Conference on Internet of Things (iThings)
-12. IEEE Global Communications Conference (GLOBECOM) & Workshops
-13. IEEE International Conference on Sustainable Computing and Communications (IEEE SustainCom)
-14. Software: Practice and Experience
-15. IEEE Data Descriptions
-    
+4.  IEEE Open Journal of Vehicular Technology
+5.  EURASIP Journal on Wireless Communications and Networking
+6.  International Journal of Network Management
+7.  Transactions on Emerging Telecommunications Technologies
+8.  IEEE Transactions on Machine Learning in Communications and Networking
+9.  IET Communications
+10. Expert Systems
+11. Software: Practice and Experience
+12. IEEE Data Descriptions
+13. IEEE Vehicular Technology Conference (VTC)
+14. IEEE International Conference on Internet of Things (iThings)
+15. IEEE Global Communications Conference (GLOBECOM) & Workshops
+16. IEEE International Conference on Sustainable Computing and Communications (IEEE SustainCom)
