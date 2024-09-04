@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I am Jinbo Wen ( 文锦柏 )
 
-I am a first-year graduate student who is pursuing an M.S. degree with the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, China. My research is supervised by [Prof. Yang Zhang](https://faculty.nuaa.edu.cn/yang/zh_CN/index.htm) and [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm). Before this, I completed my B.Sc. degree at Guangdong University of Technology, China, in 2023, under the guidance of [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm). Currently, I work as a research assistant in [MetaX Lab](https://www.metaxlab.top/).
+I am a second-year graduate student who is pursuing an M.S. degree with the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, China. My research is supervised by [Prof. Yang Zhang](https://faculty.nuaa.edu.cn/yang/zh_CN/index.htm) and [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm). Before this, I completed my B.Sc. degree at Guangdong University of Technology, China, in 2023, under the guidance of [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm). Currently, I work as a research assistant in [MetaX Lab](https://www.metaxlab.top/).
 
 My research is primarily centered around the application of **Generative AI in Networking**, including Game Theory, Blockchain, and Metaverse. If you are interested in collaborating with me or just having a chat, please feel free to email me (jinbo1608@163.com)! I am always happy to discuss with / learn from different minds ^_^!
 
