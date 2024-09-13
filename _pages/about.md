@@ -32,7 +32,7 @@ Academic Services
 Review for Journals/Conferences
 ======
 1.  IEEE Internet of Things Journal
-2.  IEEE Transactions on Cognitive Communications and Networking 
+2.  IEEE Transactions on Cognitive Communications and Networking  
 3.  IEEE Wireless Communications Magazine
 4.  IEEE Transactions on Vehicular Technology
 5.  IEEE Open Journal of Vehicular Technology
