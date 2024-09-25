@@ -28,8 +28,9 @@ Academic Services
 4. TPC member, IEEE SustainCom 2023.
 5. TPC member, IEEE GLOBECOM Workshops 2023.
 6. TPC member, ICNC'25 MCC.
+7. TPC member, IEEE Metaverse 2024.
 
-Review for Journals/Conferences
+Review for Journals
 ======
 1.  IEEE Internet of Things Journal
 2.  IEEE Transactions on Cognitive Communications and Networking  
@@ -45,7 +46,11 @@ Review for Journals/Conferences
 12. Expert Systems
 13. Software: Practice and Experience
 14. IEEE Data Descriptions
-15. IEEE Vehicular Technology Conference (VTC)
-16. IEEE International Conference on Internet of Things (iThings)
-17. IEEE Global Communications Conference (GLOBECOM) & Workshops
-18. IEEE International Conference on Sustainable Computing and Communications (IEEE SustainCom)
+
+Review for Conferences
+======
+1. IEEE Vehicular Technology Conference (VTC)
+2. IEEE International Conference on Internet of Things (iThings)
+3. IEEE Global Communications Conference (GLOBECOM) & Workshops
+4. IEEE International Conference on Sustainable Computing and Communications (IEEE SustainCom)
+5. IEEE Metaverse
