@@ -27,8 +27,10 @@ Academic Services
 3. TPC member, IEEE iThings 2024, 2023.
 4. TPC member, IEEE SustainCom 2023.
 5. TPC member, IEEE GLOBECOM Workshops 2023.
-6. TPC member, ICNC'25 MCC.
-7. TPC member, IEEE Metaverse 2024.
+6. TPC member, IEEE Metaverse 2024.
+7. TPC member, IEEE HPCC 2024.
+8. TPC member, IEEE SmartCity 2024.
+9. TPC member, ICNC 2025.
 
 Review for Journals
 ======
