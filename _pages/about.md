@@ -48,7 +48,7 @@ Review for Journals
 12. Expert Systems
 13. Software: Practice and Experience
 14. IEEE Data Descriptions
-15. Cybersecurity
+15. Cybersecurity[^1]
 
 Review for Conferences
 ======
