@@ -16,9 +16,10 @@ My research is primarily centered around the application of **Generative AI in N
 News
 ======
 1. [Aug/2023] I won the **ECNCT Best Paper Award and Best Oral Presentation**.
-2. [Jul/2023] I won the **Best Paper Award of IEEE ICDCS 2023 Workshop**.
-3. [Jun/2023] I won the **award of Outstanding Graduate of Guangdong University of Technology**.
-4. [Sep/2022] I obtained the qualification of postgraduate promotion and exemption and was successfully promoted to Nanjing University of Aeronautics and Astronautics.
+2. [Aug/2023] Our paper, *''Coalition Game for Reliable Vehicle Twin Migration in Vehicular Metaverses''*， was selected for the **Best Paper Award** in 2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT), Guangzhou, China, 2023.
+3. [Jul/2023] I won the **Best Paper Award of IEEE ICDCS 2023 Workshop**.
+4. [Jun/2023] I won the **award of Outstanding Graduate of Guangdong University of Technology**.
+5. [Sep/2022] I obtained the qualification of postgraduate promotion and exemption and was successfully promoted to Nanjing University of Aeronautics and Astronautics.
 
 Academic Services
 ======
