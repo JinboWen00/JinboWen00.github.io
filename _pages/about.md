@@ -22,33 +22,33 @@ News
 
 Academic Services
 ======
-1. TPC member, IEEE VTC 2024, 2023.
+1. TPC member, ICNC 2025.
 2. TPC member, IEEE GLOBECOM 2024.
-3. TPC member, IEEE iThings 2024, 2023.
-4. TPC member, IEEE SustainCom 2023.
-5. TPC member, IEEE GLOBECOM Workshops 2023.
-6. TPC member, IEEE Metaverse 2024.
-7. TPC member, IEEE HPCC 2024.
-8. TPC member, IEEE SmartCity 2024.
-9. TPC member, ICNC 2025.
+3. TPC member, IEEE Metaverse 2024.
+4. TPC member, IEEE HPCC 2024.
+5. TPC member, IEEE SmartCity 2024.
+6. TPC member, IEEE VTC 2024, 2023.
+7. TPC member, IEEE iThings 2024, 2023.
+8. TPC member, IEEE SustainCom 2023.
+9. TPC member, IEEE GLOBECOM Workshops 2023.
 
 Review for Journals
 ======
-1.  IEEE Internet of Things Journal
-2.  IEEE Transactions on Cognitive Communications and Networking  
-3.  IEEE Wireless Communications Magazine
-4.  IEEE Transactions on Vehicular Technology
-5.  IEEE Open Journal of Vehicular Technology
-6.  IEEE Transactions on Information Forensics & Security
-7.  EURASIP Journal on Wireless Communications and Networking
-8.  International Journal of Network Management
-9.  Transactions on Emerging Telecommunications Technologies
-10. IEEE Transactions on Machine Learning in Communications and Networking
-11. IET Communications
-12. Expert Systems
-13. Software: Practice and Experience
-14. IEEE Data Descriptions
-15. Cybersecurity
+1.  IEEE Internet of Things Journal (Q1, IF: 8.2)
+2.  IEEE Transactions on Cognitive Communications and Networking (Q1, IF: 7.4)
+3.  IEEE Transactions on Vehicular Technology (Q2, IF: 6.1)
+4.  IEEE Open Journal of Vehicular Technology (Q1, IF: 5.3)
+5.  IEEE Transactions on Information Forensics & Security
+6.  IEEE Wireless Communications (Q1, IF: 10.9)
+7.  IEEE Communications Magazine (Q2, IF: 8.3)
+<!-- 8.  EURASIP Journal on Wireless Communications and Networking -->
+<!-- 9.  International Journal of Network Management -->
+<!-- 10. Transactions on Emerging Telecommunications Technologies -->
+<!-- 11. IEEE Transactions on Machine Learning in Communications and Networking -->
+<!-- 12. IET Communications -->
+<!-- 13. Expert Systems -->
+<!-- 14. Software: Practice and Experience -->
+<!-- 15. IEEE Data Descriptions-->
 <!-- 16. Cybersecurity -->
 
 Review for Conferences
