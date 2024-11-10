@@ -15,23 +15,23 @@ My research is primarily centered around the application of **<font color=green>
 
 News
 ======
-5. [Aug/2023] I won the **Best Oral Presentation** by presenting our paper *''Task freshness-aware incentive mechanism for vehicle twin migration in vehicular metaverses''* in 2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT), Guangzhou, China, 2023.
-4. [Aug/2023] Our paper, *''Coalition Game for Reliable Vehicle Twin Migration in Vehicular Metaverses''*， was selected for the **Best Paper Award** in 2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT), Guangzhou, China, 2023.
+1. [Aug/2023] I won the **Best Oral Presentation** by presenting our paper *''Task freshness-aware incentive mechanism for vehicle twin migration in vehicular metaverses''* in 2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT), Guangzhou, China, 2023.
+2. [Aug/2023] Our paper, *''Coalition Game for Reliable Vehicle Twin Migration in Vehicular Metaverses''*， was selected for the **Best Paper Award** in 2023 5th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT), Guangzhou, China, 2023.
 3. [Jul/2023] Our paper, *''Learning-based incentive mechanism for task freshness-aware vehicular twin migration''*, was selected for the **Best Paper Award** in 2023 IEEE 43rd International Conference on Distributed Computing Systems Workshops (ICDCSW), Hong Kong, Hong Kong, 2023.
-2. [Jun/2023] I won the **award of Outstanding Graduate of Guangdong University of Technology**.
-1. [Sep/2022] I obtained the qualification of postgraduate promotion and exemption and was successfully promoted to Nanjing University of Aeronautics and Astronautics.
+4. [Jun/2023] I won the **award of Outstanding Graduate of Guangdong University of Technology**.
+5. [Sep/2022] I obtained the qualification of postgraduate promotion and exemption and was successfully promoted to Nanjing University of Aeronautics and Astronautics.
 
 Academic Services
 ======
-9. TPC member, ICNC 2025.
-8. TPC member, IEEE GLOBECOM 2024.
-7. TPC member, IEEE Metaverse 2024.
-6. TPC member, IEEE HPCC 2024.
+1. TPC member, ICNC 2025.
+2. TPC member, IEEE GLOBECOM 2024.
+3. TPC member, IEEE Metaverse 2024.
+4. TPC member, IEEE HPCC 2024.
 5. TPC member, IEEE SmartCity 2024.
-4. TPC member, IEEE VTC 2024, 2023.
-3. TPC member, IEEE iThings 2024, 2023.
-2. TPC member, IEEE SustainCom 2023.
-1. TPC member, IEEE GLOBECOM Workshops 2023.
+6. TPC member, IEEE VTC 2024, 2023.
+7. TPC member, IEEE iThings 2024, 2023.
+8. TPC member, IEEE SustainCom 2023.
+9. TPC member, IEEE GLOBECOM Workshops 2023.
 
 Review for Journals
 ======
