@@ -39,13 +39,13 @@ Review for Journals
 2.  IEEE Transactions on Cognitive Communications and Networking (Q1, IF: 7.4)
 3.  IEEE Transactions on Vehicular Technology (Q2, IF: 6.1)
 4.  IEEE Open Journal of Vehicular Technology (Q1, IF: 5.3)
-5.  IEEE Transactions on Information Forensics & Security
-6.  IEEE Wireless Communications (Q1, IF: 10.9)
-7.  IEEE Communications Magazine (Q2, IF: 8.3)
+5.  IEEE Wireless Communications (Q1, IF: 10.9)
+6.  IEEE Communications Magazine (Q2, IF: 8.3)
+7.  IEEE Transactions on Information Forensics & Security
+8.  IEEE Transactions on Machine Learning in Communications and Networking
 <!-- 8.  EURASIP Journal on Wireless Communications and Networking -->
 <!-- 9.  International Journal of Network Management -->
 <!-- 10. Transactions on Emerging Telecommunications Technologies -->
-<!-- 11. IEEE Transactions on Machine Learning in Communications and Networking -->
 <!-- 12. IET Communications -->
 <!-- 13. Expert Systems -->
 <!-- 14. Software: Practice and Experience -->
