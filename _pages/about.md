@@ -23,15 +23,16 @@ News
 
 Academic Services
 ======
-1. TPC member, ICNC 2025.
-2. TPC member, IEEE GLOBECOM 2024.
-3. TPC member, IEEE Metaverse 2024.
-4. TPC member, IEEE HPCC 2024.
-5. TPC member, IEEE SmartCity 2024.
-6. TPC member, IEEE VTC 2024, 2023.
-7. TPC member, IEEE iThings 2024, 2023.
-8. TPC member, IEEE SustainCom 2023.
-9. TPC member, IEEE GLOBECOM Workshops 2023.
+1. TPC member, IEEE ICC 2025.
+2. TPC member, ICNC 2025.
+3. TPC member, IEEE GLOBECOM 2024.
+4. TPC member, IEEE Metaverse 2024.
+5. TPC member, IEEE HPCC 2024.
+6. TPC member, IEEE SmartCity 2024.
+7. TPC member, IEEE VTC 2024, 2023.
+8. TPC member, IEEE iThings 2024, 2023.
+9. TPC member, IEEE SustainCom 2023.
+10. TPC member, IEEE GLOBECOM Workshops 2023.
 
 Review for Journals
 ======
@@ -54,8 +55,9 @@ Review for Journals
 
 Review for Conferences
 ======
-1. IEEE Vehicular Technology Conference (VTC)
-2. IEEE International Conference on Internet of Things (iThings)
-3. IEEE Global Communications Conference (GLOBECOM) & Workshops
-4. IEEE International Conference on Sustainable Computing and Communications (IEEE SustainCom)
-5. IEEE Metaverse
+1. IEEE IEEE International Conference on Communications (ICC)
+2. IEEE Vehicular Technology Conference (VTC)
+3. IEEE International Conference on Internet of Things (iThings)
+4. IEEE Global Communications Conference (GLOBECOM) & Workshops
+5. IEEE International Conference on Sustainable Computing and Communications (IEEE SustainCom)
+6. IEEE Metaverse
