@@ -738,6 +738,11 @@ html[data-theme="dark"] .theme-icon--sun { display: block; }
 
 .honor-list time { font-size: var(--date-font-size); }
 
+.teaching-list li {
+  grid-template-columns: 13px minmax(0, 1fr);
+}
+.teaching-list .detail-list__dot { background: #8f1f2d; }
+
 .talk-list li { grid-template-columns: 13px 92px minmax(0, 1fr); }
 .talk-list h3 {
   margin: 0 0 5px;
